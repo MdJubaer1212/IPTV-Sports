@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="Default Audio",DEFAULT=YES,AUTOSELECT=YES,URI="https://storage.googleapis.com/msnuke4/mainnet/mux_audio/index-1.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,AUDIO="audio-group"
+https://storage.googleapis.com/msnuke4/mainnet/mux_video/index-1.m3u8
